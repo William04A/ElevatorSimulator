@@ -1,3 +1,7 @@
+**Super disclaimer**
+
+This was my first Python project EVER to be open-sourced or even one of the first of a bigger scale. I am writing this years later just to empahize that this repository is still up for nostalgia alone. I am aware that the code quality in this project is very bad. To see what my current quality looks like, check out my new acc sotpotatis on GitHub!
+
 # ElevatorSimulator
 An elevator simulator written in Python (for Windows)
 # Information
